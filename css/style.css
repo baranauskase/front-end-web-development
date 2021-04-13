@@ -1,0 +1,17 @@
+body {
+    background: rgb(0, 0, 0);
+    color: #0af
+}
+
+body > header > h3 {
+    background: white;
+}
+
+h3 {
+    color: red;
+}
+
+body h3 {
+    color: green;
+}
+
